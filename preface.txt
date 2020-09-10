@@ -4,3 +4,5 @@ This is the preface of the book.
 
 This is a task to check multiple collaborators for central repository.
 
+The third line of preface is added.
+
