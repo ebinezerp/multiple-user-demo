@@ -1,10 +1,6 @@
 Preface
 
 This is the preface of the book.
-
-
-
-
-
+In between I am ading thrid line.
 The third line of preface is added.
 
